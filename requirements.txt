@@ -1,0 +1,10 @@
+numpy
+pycryptodome
+eth-hash
+eth-utils
+web3
+requests
+sqlite3  # Built-in, but some installations might need explicit mention
+aiohttp
+asyncio
+concurrent.futures
